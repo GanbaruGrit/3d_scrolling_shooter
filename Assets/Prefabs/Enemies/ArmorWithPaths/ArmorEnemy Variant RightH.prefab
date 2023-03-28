@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8188039987320042022
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -1422829193491482353, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -1422829193491482353, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: pathCreator
+      value: 
+      objectReference: {fileID: 4147640616482840518, guid: 167550b766337ed40be2992a00e64ba9,
+        type: 3}
+    - target: {fileID: 966416416, guid: edb4d051fa32a494fab788f7247f06f7, type: 3}
+      propertyPath: CommonExplosionPrefab2
+      value: 
+      objectReference: {fileID: 8174502400274493893, guid: e65fe28c69ac1d74a907ec5fcf67a112,
+        type: 3}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815673, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741843797106815674, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: m_Name
+      value: ArmorEnemy Variant RightH
+      objectReference: {fileID: 0}
+    - target: {fileID: 2693072315543309863, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: aimedShot
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2693072315543309863, guid: edb4d051fa32a494fab788f7247f06f7,
+        type: 3}
+      propertyPath: aimedPlayer
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: edb4d051fa32a494fab788f7247f06f7, type: 3}

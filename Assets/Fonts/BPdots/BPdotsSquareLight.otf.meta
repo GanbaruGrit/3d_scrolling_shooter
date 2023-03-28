@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7df0da3cee4ef8547b3b7d24c5c8bcc1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BPdotsSquares
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f50831dd8fead05419b42f23db12a793, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

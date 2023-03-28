@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8547850400118749011
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1678647443839913685, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_Name
+      value: SphereEnemy Variant LongSwingLR ShiftL
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1678647443839913706, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2910196278875258852, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 2910196278875258852, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2910196278875258852, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: pathCreator
+      value: 
+      objectReference: {fileID: 6086040021130183657, guid: 7aec9aa5a984f0b47bc60a57a48d7d06,
+        type: 3}
+    - target: {fileID: 7244392172811843178, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: numOfShots
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7244392172811843178, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: bulletSpeed
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7244392172811843178, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: timeBetweenBursts
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7244392172811843178, guid: 6f45f32e10c8d2e4fa222798288b5221,
+        type: 3}
+      propertyPath: timeBeforeFirstBurst
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6f45f32e10c8d2e4fa222798288b5221, type: 3}
