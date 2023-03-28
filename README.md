@@ -10,9 +10,9 @@ This prototype is being created as a take on the classic vertically scrolling ar
 
 This game is being developed as a full vertical slice for potential publisher consideration. As such, there's fully implemented systems for expanding on all core prefabs so that additional enemies, shot patterns, and environments can all be quickly created streamlining the process in the future.
 
-[![3D_Shooter_Prototype Screenshot](https://christianjthompson.com/images/3d_shooter_1st_clip.gif)]
+![3D_Shooter_Prototype Screenshot](https://christianjthompson.com/images/3d_shooter_1st_clip.gif)
 
-[![3D_Shooter_Prototype Screenshot](https://christianjthompson.com/images/3d_shooter_2nd_clip.gif)]
+![3D_Shooter_Prototype Screenshot](https://christianjthompson.com/images/3d_shooter_2nd_clip.gif)
 
-[![3D_Shooter_Prototype Screenshot](https://christianjthompson.com/images/3d_shooter_3rd_clip.gif)]
+![3D_Shooter_Prototype Screenshot](https://christianjthompson.com/images/3d_shooter_3rd_clip.gif)
 
